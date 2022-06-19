@@ -30,3 +30,8 @@ address {
     /* or */
     font-style: inherit;
 }
+
+/* About us */
+.about-us-subtitle {
+    font-weight: 600;
+    color: var(--text-color)};
