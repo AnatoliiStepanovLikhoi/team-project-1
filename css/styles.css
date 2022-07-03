@@ -35,3 +35,8 @@ address {
 .about-us-subtitle {
     font-weight: 600;
     color: var(--text-color)};
+
+    .slider-wrap {
+        width: 700px;
+        margin: 0 auto;
+    }
